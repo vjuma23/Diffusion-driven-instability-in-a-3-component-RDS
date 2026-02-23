@@ -79,7 +79,6 @@ python mode_isolate.py --polymer 6 --gamma 250
 Optional parameters:
 
 - `--a`, `--b`, `--c`: set the reaction parameters (defaults are built into the script for polymer 6)
-- `--res`: resolution for the plotted spectra (default: 2000)
 
 ## 👤 Author & Maintainer
 
